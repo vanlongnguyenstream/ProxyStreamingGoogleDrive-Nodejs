@@ -2,7 +2,7 @@
 
 This is a system that allows you to run your own Google Drive video on your own server. Code run in Linux và Windows OS
 
-# Link Dowload Code!
+# Link Download Code!
    - https://drive.google.com/open?id=0B-Bw4HuaOS4kT0tlY0NRR0ZhSWc
    - Download to your server then extract it we have a folder contain 
         - Readme file
