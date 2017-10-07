@@ -32,16 +32,16 @@ Link dowload source code  https://drive.google.com/file/d/0B-Bw4HuaOS4kUkRjQzFKT
     $ chmod 777 download-linux
     $ screen -S root-screen    [Create screen for root worker]
     $ ./root-linux             [Run root worker]
-    $ Ctrl+D , Ctrl+A          [Deattach root-screen]
+    $ Ctrl+A , Ctrl+D          [Deattach root-screen]
     $ screen -S master-screen    [Create screen for master worker]
     $ ./master-linux             [Run master worker]
-    $ Ctrl+D , Ctrl+A          [Deattach master-screen]
+    $ Ctrl+A , Ctrl+D          [Deattach master-screen]
     $ screen -S slave-screen    [Create screen for slave worker]
     $ ./slave-linux             [Run slave worker]
-    $ Ctrl+D , Ctrl+A          [Deattach slave-screen]
+    $ Ctrl+A , Ctrl+D          [Deattach slave-screen]
     $ screen -S download-screen    [Create screen for download worker]
     $ ./download-linux             [Run download worker]
-    $ Ctrl+D , Ctrl+A          [Deattach download-screen]
+    $ Ctrl+A , Ctrl+D          [Deattach download-screen]
     That all, done!
     ```
 
