@@ -46,14 +46,14 @@ Link dowload source code  https://drive.google.com/file/d/0B-Bw4HuaOS4kUkRjQzFKT
     ```
 
 # Test!
-  - If running the code locally, type: http://127.0.0.1:5566/linkmaster?driveId=0B8kcnU4E3p-yNXBCZllWY2dXVVE (If true then the result is the link streaming with quanlity 306p, 720p, 480p)
-  - If running on the server, type http://server-ip:5566/linkmaster?driveId=0B8kcnU4E3p-yNXBCZllWY2dXVVE
+  - If running the code locally, type: http://127.0.0.1:5566/linkmaster?driveId=0B7znQz9FgfqWbHc3QXhUTTR2ZlU (If true then the result is the link streaming with quanlity 306p, 720p, 480p)
+  - If running on the server, type http://server-ip:5566/linkmaster?driveId=0B7znQz9FgfqWbHc3QXhUTTR2ZlU
 # Start on Windows!
   - Double click exe files in foler Windows
   - That all, it run and make your test
 # Import notes
 Contact me: https://www.facebook.com/profile.php?id=100010999245493
-  - Inbox me to register your IP, if not you only streaming file test with driveId=0B8kcnU4E3p-yNXBCZllWY2dXVVE
+  - Inbox me to register your IP, if not you only streaming file test with driveId=0B7znQz9FgfqWbHc3QXhUTTR2ZlU
   - If you want change port or domain to streming please inbox me
   - Free with 20 user online, if you want more, please inbox me
   - If has any question, inbox me
