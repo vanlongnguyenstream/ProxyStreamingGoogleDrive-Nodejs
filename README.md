@@ -1,6 +1,5 @@
 # ProxyStreamingGoogleDrive-Nodejs
 
-[![VanLong|Stream](https://cldup.com/dTxpPi9lDf.thumb.png)](https://https://www.facebook.com/profile.php?id=100010999245493)
 This is a system that allows you to run your own Google Drive video on your own server. Code run in Linux và Windows OS
 
 Link dowload source code  https://drive.google.com/file/d/0B-hxz6ee5n8_bW16ZThMZVI1ZEE/view .Download to your server, extract it we have code incluce readme file, and config file and code for linux + ubuntu
