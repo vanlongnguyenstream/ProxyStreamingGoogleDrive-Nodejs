@@ -2,7 +2,7 @@
 
 This is a system that allows you to run your own Google Drive video on your own server. Code run in Linux và Windows OS
 
-Link dowload source code  https://drive.google.com/file/d/0B-hxz6ee5n8_bW16ZThMZVI1ZEE/view .Download to your server, extract it we have code incluce readme file, and config file and code for linux + ubuntu
+Link dowload source code  https://drive.google.com/file/d/0B-hxz6ee5n8_bW16ZThMZVI1ZEE/view .Download to your server, extract it we have folder code contain readme file, and config file and code for linux + ubuntu
 
 # Features!
   - This is a very good streaming system (10K user online).
@@ -20,7 +20,7 @@ Link dowload source code  https://drive.google.com/file/d/0B-hxz6ee5n8_bW16ZThMZ
   - It is ok
   - More configs for big site : Contact https://www.facebook.com/profile.php?id=100010999245493
 # Requiments!
-  - Install redis on your server
+  - Install redis on your server with port 6379
 # Start on linux!
   - suppose we are in folder you downloaded from google drive
   - ```sh
