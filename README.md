@@ -15,6 +15,7 @@ Link dowload source code  https://drive.google.com/file/d/0B-Bw4HuaOS4kUkRjQzFKT
   - Slave Worker : Responsible for streaming video
   - Download Worker: Responsible for download video
 # Configs!
+  - Replace ip diffrent 127.0.0.1 with your server ip in file areainfo.xml
   - On ubuntu: move file areainfo.xml to /root/areainfor.xml
   - On windows: move file areainfo.xml to C:/areainfo.xml
   - It is ok
